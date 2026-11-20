@@ -1,6 +1,6 @@
 #!/bin/bash
 # sim-guard: stop AI coding agents from melting your Mac with iOS simulators.
-# https://github.com/fire-eclairs/sim-guard  (MIT)
+# https://github.com/annayal-consumerxai/sim-guard  (MIT)
 #
 #   sim-guard.sh init [N]        pick N iPhone sims on the newest iOS runtime as the shared pool and slim them (default: SIM_CAP)
 #   sim-guard.sh audit           list booted sims: RAM, CPU, slim or not, pool or orphan, plus shutdown commands
