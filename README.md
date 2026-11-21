@@ -47,4 +47,6 @@ Settings are env vars: `SIM_CAP` (default 2), `MIN_FREE_PCT` (default 25), `SIMS
 
 The heavy lifting is [simslim](https://github.com/MobAI-App/simslim) by MobAI, which turns off the simulator daemons you don't need. sim-guard is the set of rules for agents on top of it. The rules came out of an X thread on parallel agents melting Mac Studios.
 
-MIT. Made by [An Nayal](https://annayal.com) ([@consumerxai](https://x.com/consumerxai)). More free tools at [annayal.com/open-source](https://annayal.com/open-source).
+MIT. More free tools at [annayal.com/open-source](https://annayal.com/open-source).
+
+Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com)
